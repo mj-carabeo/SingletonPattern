@@ -1,3 +1,5 @@
+package singletonPattern;
+
 public class UserApp {
     public static void main(String[] args) {
         Application app = Application.getInstance();
